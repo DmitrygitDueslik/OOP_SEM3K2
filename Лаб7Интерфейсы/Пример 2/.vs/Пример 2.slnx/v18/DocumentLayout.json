@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041E\u0431\u0435\u0437\u044C\u044F\u043D\u0430\\OneDrive\\Desktop\\\u041F\u0440\u0438\u043C\u0435\u0440 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B54583A-5560-4872-9B8C-FE429FD073D6}|\u041F\u0440\u0438\u043C\u0435\u0440 2\\\u041F\u0440\u0438\u043C\u0435\u0440 2.csproj|c:\\users\\\u043E\u0431\u0435\u0437\u044C\u044F\u043D\u0430\\onedrive\\desktop\\\u043F\u0440\u0438\u043C\u0435\u0440 2\\\u043F\u0440\u0438\u043C\u0435\u0440 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B54583A-5560-4872-9B8C-FE429FD073D6}|\u041F\u0440\u0438\u043C\u0435\u0440 2\\\u041F\u0440\u0438\u043C\u0435\u0440 2.csproj|solutionrelative:\u043F\u0440\u0438\u043C\u0435\u0440 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041E\u0431\u0435\u0437\u044C\u044F\u043D\u0430\\OneDrive\\Desktop\\\u041F\u0440\u0438\u043C\u0435\u0440 2\\\u041F\u0440\u0438\u043C\u0435\u0440 2\\Program.cs",
+              "RelativeDocumentMoniker": "\u041F\u0440\u0438\u043C\u0435\u0440 2\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041E\u0431\u0435\u0437\u044C\u044F\u043D\u0430\\OneDrive\\Desktop\\\u041F\u0440\u0438\u043C\u0435\u0440 2\\\u041F\u0440\u0438\u043C\u0435\u0440 2\\Program.cs",
+              "RelativeToolTip": "\u041F\u0440\u0438\u043C\u0435\u0440 2\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAA7wEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T17:20:31.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

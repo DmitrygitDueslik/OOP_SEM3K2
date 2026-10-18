@@ -1,0 +1,15 @@
+C:\Users\Dmitriy\Desktop\oop\Лаб10Обобщения\Допы\Доп3\bin\Debug\net10.0\Доп3.exe
+C:\Users\Dmitriy\Desktop\oop\Лаб10Обобщения\Допы\Доп3\bin\Debug\net10.0\Доп3.deps.json
+C:\Users\Dmitriy\Desktop\oop\Лаб10Обобщения\Допы\Доп3\bin\Debug\net10.0\Доп3.runtimeconfig.json
+C:\Users\Dmitriy\Desktop\oop\Лаб10Обобщения\Допы\Доп3\bin\Debug\net10.0\Доп3.dll
+C:\Users\Dmitriy\Desktop\oop\Лаб10Обобщения\Допы\Доп3\bin\Debug\net10.0\Доп3.pdb
+C:\Users\Dmitriy\Desktop\oop\Лаб10Обобщения\Допы\Доп3\obj\Debug\net10.0\Доп3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitriy\Desktop\oop\Лаб10Обобщения\Допы\Доп3\obj\Debug\net10.0\Доп3.AssemblyInfoInputs.cache
+C:\Users\Dmitriy\Desktop\oop\Лаб10Обобщения\Допы\Доп3\obj\Debug\net10.0\Доп3.AssemblyInfo.cs
+C:\Users\Dmitriy\Desktop\oop\Лаб10Обобщения\Допы\Доп3\obj\Debug\net10.0\Доп3.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\Desktop\oop\Лаб10Обобщения\Допы\Доп3\obj\Debug\net10.0\Доп3.dll
+C:\Users\Dmitriy\Desktop\oop\Лаб10Обобщения\Допы\Доп3\obj\Debug\net10.0\refint\Доп3.dll
+C:\Users\Dmitriy\Desktop\oop\Лаб10Обобщения\Допы\Доп3\obj\Debug\net10.0\Доп3.pdb
+C:\Users\Dmitriy\Desktop\oop\Лаб10Обобщения\Допы\Доп3\obj\Debug\net10.0\Доп3.genruntimeconfig.cache
+C:\Users\Dmitriy\Desktop\oop\Лаб10Обобщения\Допы\Доп3\obj\Debug\net10.0\ref\Доп3.dll
+C:\Users\Dmitriy\Desktop\oop\Лаб10Обобщения\Допы\Доп3\obj\Debug\net10.0\Доп3.csproj.Up2Date

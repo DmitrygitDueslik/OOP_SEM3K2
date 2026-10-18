@@ -1,0 +1,15 @@
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб1\Индивидуальное задание 3\Индивидуальное задание 3\bin\Debug\net10.0\Индивидуальное задание 3.exe
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб1\Индивидуальное задание 3\Индивидуальное задание 3\bin\Debug\net10.0\Индивидуальное задание 3.deps.json
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб1\Индивидуальное задание 3\Индивидуальное задание 3\bin\Debug\net10.0\Индивидуальное задание 3.runtimeconfig.json
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб1\Индивидуальное задание 3\Индивидуальное задание 3\bin\Debug\net10.0\Индивидуальное задание 3.dll
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб1\Индивидуальное задание 3\Индивидуальное задание 3\bin\Debug\net10.0\Индивидуальное задание 3.pdb
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб1\Индивидуальное задание 3\Индивидуальное задание 3\obj\Debug\net10.0\Индивидуальное задание 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб1\Индивидуальное задание 3\Индивидуальное задание 3\obj\Debug\net10.0\Индивидуальное задание 3.AssemblyInfoInputs.cache
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб1\Индивидуальное задание 3\Индивидуальное задание 3\obj\Debug\net10.0\Индивидуальное задание 3.AssemblyInfo.cs
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб1\Индивидуальное задание 3\Индивидуальное задание 3\obj\Debug\net10.0\Индивидуальное задание 3.csproj.CoreCompileInputs.cache
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб1\Индивидуальное задание 3\Индивидуальное задание 3\obj\Debug\net10.0\Индивидуальное задание 3.dll
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб1\Индивидуальное задание 3\Индивидуальное задание 3\obj\Debug\net10.0\refint\Индивидуальное задание 3.dll
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб1\Индивидуальное задание 3\Индивидуальное задание 3\obj\Debug\net10.0\Индивидуальное задание 3.pdb
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб1\Индивидуальное задание 3\Индивидуальное задание 3\obj\Debug\net10.0\Индивидуальное задание 3.genruntimeconfig.cache
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб1\Индивидуальное задание 3\Индивидуальное задание 3\obj\Debug\net10.0\ref\Индивидуальное задание 3.dll
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб1\Индивидуальное задание 3\Индивидуальное задание 3\obj\Debug\net10.0\________.BA451D48.Up2Date

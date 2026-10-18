@@ -1,0 +1,15 @@
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб4Перегрузка\Пример1\Пример2\bin\Debug\net10.0\Пример2.exe
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб4Перегрузка\Пример1\Пример2\bin\Debug\net10.0\Пример2.deps.json
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб4Перегрузка\Пример1\Пример2\bin\Debug\net10.0\Пример2.runtimeconfig.json
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб4Перегрузка\Пример1\Пример2\bin\Debug\net10.0\Пример2.dll
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб4Перегрузка\Пример1\Пример2\bin\Debug\net10.0\Пример2.pdb
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб4Перегрузка\Пример1\Пример2\obj\Debug\net10.0\Пример2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб4Перегрузка\Пример1\Пример2\obj\Debug\net10.0\Пример2.AssemblyInfoInputs.cache
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб4Перегрузка\Пример1\Пример2\obj\Debug\net10.0\Пример2.AssemblyInfo.cs
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб4Перегрузка\Пример1\Пример2\obj\Debug\net10.0\Пример2.csproj.CoreCompileInputs.cache
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб4Перегрузка\Пример1\Пример2\obj\Debug\net10.0\Пример2.dll
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб4Перегрузка\Пример1\Пример2\obj\Debug\net10.0\refint\Пример2.dll
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб4Перегрузка\Пример1\Пример2\obj\Debug\net10.0\Пример2.pdb
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб4Перегрузка\Пример1\Пример2\obj\Debug\net10.0\Пример2.genruntimeconfig.cache
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб4Перегрузка\Пример1\Пример2\obj\Debug\net10.0\ref\Пример2.dll
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб4Перегрузка\Пример1\Пример2\obj\Debug\net10.0\Пример2.csproj.Up2Date

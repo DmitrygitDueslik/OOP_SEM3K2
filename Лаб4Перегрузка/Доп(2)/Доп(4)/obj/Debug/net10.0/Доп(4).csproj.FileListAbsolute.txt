@@ -1,0 +1,15 @@
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб4Перегрузка\Доп(2)\Доп(4)\bin\Debug\net10.0\Доп(4).exe
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб4Перегрузка\Доп(2)\Доп(4)\bin\Debug\net10.0\Доп(4).deps.json
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб4Перегрузка\Доп(2)\Доп(4)\bin\Debug\net10.0\Доп(4).runtimeconfig.json
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб4Перегрузка\Доп(2)\Доп(4)\bin\Debug\net10.0\Доп(4).dll
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб4Перегрузка\Доп(2)\Доп(4)\bin\Debug\net10.0\Доп(4).pdb
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб4Перегрузка\Доп(2)\Доп(4)\obj\Debug\net10.0\Доп(4).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб4Перегрузка\Доп(2)\Доп(4)\obj\Debug\net10.0\Доп(4).AssemblyInfoInputs.cache
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб4Перегрузка\Доп(2)\Доп(4)\obj\Debug\net10.0\Доп(4).AssemblyInfo.cs
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб4Перегрузка\Доп(2)\Доп(4)\obj\Debug\net10.0\Доп(4).csproj.CoreCompileInputs.cache
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб4Перегрузка\Доп(2)\Доп(4)\obj\Debug\net10.0\Доп(4).dll
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб4Перегрузка\Доп(2)\Доп(4)\obj\Debug\net10.0\refint\Доп(4).dll
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб4Перегрузка\Доп(2)\Доп(4)\obj\Debug\net10.0\Доп(4).pdb
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб4Перегрузка\Доп(2)\Доп(4)\obj\Debug\net10.0\Доп(4).genruntimeconfig.cache
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб4Перегрузка\Доп(2)\Доп(4)\obj\Debug\net10.0\ref\Доп(4).dll
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб4Перегрузка\Доп(2)\Доп(4)\obj\Debug\net10.0\Доп(4).csproj.Up2Date

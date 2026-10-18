@@ -1,0 +1,15 @@
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб2Кортежи\Primer1\Primer1\bin\Debug\net10.0\Primer1.exe
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб2Кортежи\Primer1\Primer1\bin\Debug\net10.0\Primer1.deps.json
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб2Кортежи\Primer1\Primer1\bin\Debug\net10.0\Primer1.runtimeconfig.json
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб2Кортежи\Primer1\Primer1\bin\Debug\net10.0\Primer1.dll
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб2Кортежи\Primer1\Primer1\bin\Debug\net10.0\Primer1.pdb
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб2Кортежи\Primer1\Primer1\obj\Debug\net10.0\Primer1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб2Кортежи\Primer1\Primer1\obj\Debug\net10.0\Primer1.AssemblyInfoInputs.cache
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб2Кортежи\Primer1\Primer1\obj\Debug\net10.0\Primer1.AssemblyInfo.cs
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб2Кортежи\Primer1\Primer1\obj\Debug\net10.0\Primer1.csproj.CoreCompileInputs.cache
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб2Кортежи\Primer1\Primer1\obj\Debug\net10.0\Primer1.dll
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб2Кортежи\Primer1\Primer1\obj\Debug\net10.0\refint\Primer1.dll
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб2Кортежи\Primer1\Primer1\obj\Debug\net10.0\Primer1.pdb
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб2Кортежи\Primer1\Primer1\obj\Debug\net10.0\Primer1.genruntimeconfig.cache
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб2Кортежи\Primer1\Primer1\obj\Debug\net10.0\ref\Primer1.dll
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб2Кортежи\Primer1\Primer1\obj\Debug\net10.0\Primer1.csproj.Up2Date
