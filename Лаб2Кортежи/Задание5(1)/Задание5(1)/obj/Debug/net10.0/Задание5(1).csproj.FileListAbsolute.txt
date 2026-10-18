@@ -1,0 +1,15 @@
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб2Кортежи\Задание5(1)\Задание5(1)\bin\Debug\net10.0\Задание5(1).exe
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб2Кортежи\Задание5(1)\Задание5(1)\bin\Debug\net10.0\Задание5(1).deps.json
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб2Кортежи\Задание5(1)\Задание5(1)\bin\Debug\net10.0\Задание5(1).runtimeconfig.json
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб2Кортежи\Задание5(1)\Задание5(1)\bin\Debug\net10.0\Задание5(1).dll
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб2Кортежи\Задание5(1)\Задание5(1)\bin\Debug\net10.0\Задание5(1).pdb
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб2Кортежи\Задание5(1)\Задание5(1)\obj\Debug\net10.0\Задание5(1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб2Кортежи\Задание5(1)\Задание5(1)\obj\Debug\net10.0\Задание5(1).AssemblyInfoInputs.cache
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб2Кортежи\Задание5(1)\Задание5(1)\obj\Debug\net10.0\Задание5(1).AssemblyInfo.cs
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб2Кортежи\Задание5(1)\Задание5(1)\obj\Debug\net10.0\Задание5(1).csproj.CoreCompileInputs.cache
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб2Кортежи\Задание5(1)\Задание5(1)\obj\Debug\net10.0\Задание5(1).dll
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб2Кортежи\Задание5(1)\Задание5(1)\obj\Debug\net10.0\refint\Задание5(1).dll
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб2Кортежи\Задание5(1)\Задание5(1)\obj\Debug\net10.0\Задание5(1).pdb
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб2Кортежи\Задание5(1)\Задание5(1)\obj\Debug\net10.0\Задание5(1).genruntimeconfig.cache
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб2Кортежи\Задание5(1)\Задание5(1)\obj\Debug\net10.0\ref\Задание5(1).dll
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб2Кортежи\Задание5(1)\Задание5(1)\obj\Debug\net10.0\_______5.30E7C606.Up2Date

@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="2/2.csproj" />
+  <Project Path="3/3.csproj" />
+  <Project Path="Примеры/Примеры.csproj" />
+</Solution>

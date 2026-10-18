@@ -1,0 +1,15 @@
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб1\Lab1(Primer2)\obj\Debug\net10.0\Lab1(Primer2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб1\Lab1(Primer2)\obj\Debug\net10.0\Lab1(Primer2).AssemblyInfoInputs.cache
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб1\Lab1(Primer2)\obj\Debug\net10.0\Lab1(Primer2).AssemblyInfo.cs
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб1\Lab1(Primer2)\obj\Debug\net10.0\Lab1(Primer2).csproj.CoreCompileInputs.cache
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб1\Lab1(Primer2)\bin\Debug\net10.0\Lab1(Primer2).exe
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб1\Lab1(Primer2)\bin\Debug\net10.0\Lab1(Primer2).deps.json
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб1\Lab1(Primer2)\bin\Debug\net10.0\Lab1(Primer2).runtimeconfig.json
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб1\Lab1(Primer2)\bin\Debug\net10.0\Lab1(Primer2).dll
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб1\Lab1(Primer2)\bin\Debug\net10.0\Lab1(Primer2).pdb
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб1\Lab1(Primer2)\obj\Debug\net10.0\Lab1(Primer2).dll
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб1\Lab1(Primer2)\obj\Debug\net10.0\refint\Lab1(Primer2).dll
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб1\Lab1(Primer2)\obj\Debug\net10.0\Lab1(Primer2).pdb
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб1\Lab1(Primer2)\obj\Debug\net10.0\Lab1(Primer2).genruntimeconfig.cache
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб1\Lab1(Primer2)\obj\Debug\net10.0\ref\Lab1(Primer2).dll
+C:\Users\Обезьяна\OneDrive\Desktop\oop\Лаб1\Lab1(Primer2)\obj\Debug\net10.0\Lab1(Pri.D8AB1C4C.Up2Date

@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dmitriy\\Desktop\\oop\\\u041B\u0430\u04319\u0418\u0441\u043A\u043B\u044E\u0447\u0435\u043D\u0438\u044F\\\u0414\u043E\u043F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB733A06-7B8C-4EF8-85CC-AC9A8054CAE3}|\u0414\u043E\u043F3\\\u0414\u043E\u043F3.csproj|c:\\users\\dmitriy\\desktop\\oop\\\u043B\u0430\u04319\u0438\u0441\u043A\u043B\u044E\u0447\u0435\u043D\u0438\u044F\\\u0434\u043E\u043F\\\u0434\u043E\u043F3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB733A06-7B8C-4EF8-85CC-AC9A8054CAE3}|\u0414\u043E\u043F3\\\u0414\u043E\u043F3.csproj|solutionrelative:\u0434\u043E\u043F3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E577B2-AF1D-4C87-BEE8-8F40B28B885F}|\u0414\u043E\u043F2\\\u0414\u043E\u043F2.csproj|c:\\users\\dmitriy\\desktop\\oop\\\u043B\u0430\u04319\u0438\u0441\u043A\u043B\u044E\u0447\u0435\u043D\u0438\u044F\\\u0434\u043E\u043F\\\u0434\u043E\u043F2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E577B2-AF1D-4C87-BEE8-8F40B28B885F}|\u0414\u043E\u043F2\\\u0414\u043E\u043F2.csproj|solutionrelative:\u0434\u043E\u043F2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594E7F07-6F3D-4013-9DFE-5B01ACD748AE}|\u0414\u043E\u043F\\\u0414\u043E\u043F.csproj|c:\\users\\dmitriy\\desktop\\oop\\\u043B\u0430\u04319\u0438\u0441\u043A\u043B\u044E\u0447\u0435\u043D\u0438\u044F\\\u0434\u043E\u043F\\\u0434\u043E\u043F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594E7F07-6F3D-4013-9DFE-5B01ACD748AE}|\u0414\u043E\u043F\\\u0414\u043E\u043F.csproj|solutionrelative:\u0434\u043E\u043F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Desktop\\oop\\\u041B\u0430\u04319\u0418\u0441\u043A\u043B\u044E\u0447\u0435\u043D\u0438\u044F\\\u0414\u043E\u043F\\\u0414\u043E\u043F3\\Program.cs",
+              "RelativeDocumentMoniker": "\u0414\u043E\u043F3\\Program.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Desktop\\oop\\\u041B\u0430\u04319\u0418\u0441\u043A\u043B\u044E\u0447\u0435\u043D\u0438\u044F\\\u0414\u043E\u043F\\\u0414\u043E\u043F3\\Program.cs",
+              "RelativeToolTip": "\u0414\u043E\u043F3\\Program.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAowIoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T11:07:21.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Desktop\\oop\\\u041B\u0430\u04319\u0418\u0441\u043A\u043B\u044E\u0447\u0435\u043D\u0438\u044F\\\u0414\u043E\u043F\\\u0414\u043E\u043F2\\Program.cs",
+              "RelativeDocumentMoniker": "\u0414\u043E\u043F2\\Program.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Desktop\\oop\\\u041B\u0430\u04319\u0418\u0441\u043A\u043B\u044E\u0447\u0435\u043D\u0438\u044F\\\u0414\u043E\u043F\\\u0414\u043E\u043F2\\Program.cs",
+              "RelativeToolTip": "\u0414\u043E\u043F2\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAIwFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T11:05:20.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\Desktop\\oop\\\u041B\u0430\u04319\u0418\u0441\u043A\u043B\u044E\u0447\u0435\u043D\u0438\u044F\\\u0414\u043E\u043F\\\u0414\u043E\u043F\\Program.cs",
+              "RelativeDocumentMoniker": "\u0414\u043E\u043F\\Program.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\Desktop\\oop\\\u041B\u0430\u04319\u0418\u0441\u043A\u043B\u044E\u0447\u0435\u043D\u0438\u044F\\\u0414\u043E\u043F\\\u0414\u043E\u043F\\Program.cs",
+              "RelativeToolTip": "\u0414\u043E\u043F\\Program.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAUwKYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T11:03:02.816Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 182,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

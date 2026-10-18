@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Индивидуальное задание 2/1.0.0": {
+        "runtime": {
+          "Индивидуальное задание 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Индивидуальное задание 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

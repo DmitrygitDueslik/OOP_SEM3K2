@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "Доп 2\\Доп 2.csproj",
+        "Action": "StartWithoutDebugging"
+      },
+      {
+        "Path": "Доп 3\\Доп 3.csproj",
+        "Action": "StartWithoutDebugging"
+      },
+      {
+        "Path": "Допы\\Доп 1.csproj",
+        "Action": "StartWithoutDebugging"
+      }
+    ]
+  }
+]

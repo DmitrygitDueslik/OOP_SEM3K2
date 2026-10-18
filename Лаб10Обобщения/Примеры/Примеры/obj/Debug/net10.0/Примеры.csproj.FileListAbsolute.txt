@@ -1,0 +1,15 @@
+C:\Users\Dmitriy\Desktop\oop\Лаб10Обобщения\Примеры\Примеры\bin\Debug\net10.0\Примеры.exe
+C:\Users\Dmitriy\Desktop\oop\Лаб10Обобщения\Примеры\Примеры\bin\Debug\net10.0\Примеры.deps.json
+C:\Users\Dmitriy\Desktop\oop\Лаб10Обобщения\Примеры\Примеры\bin\Debug\net10.0\Примеры.runtimeconfig.json
+C:\Users\Dmitriy\Desktop\oop\Лаб10Обобщения\Примеры\Примеры\bin\Debug\net10.0\Примеры.dll
+C:\Users\Dmitriy\Desktop\oop\Лаб10Обобщения\Примеры\Примеры\bin\Debug\net10.0\Примеры.pdb
+C:\Users\Dmitriy\Desktop\oop\Лаб10Обобщения\Примеры\Примеры\obj\Debug\net10.0\Примеры.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitriy\Desktop\oop\Лаб10Обобщения\Примеры\Примеры\obj\Debug\net10.0\Примеры.AssemblyInfoInputs.cache
+C:\Users\Dmitriy\Desktop\oop\Лаб10Обобщения\Примеры\Примеры\obj\Debug\net10.0\Примеры.AssemblyInfo.cs
+C:\Users\Dmitriy\Desktop\oop\Лаб10Обобщения\Примеры\Примеры\obj\Debug\net10.0\Примеры.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\Desktop\oop\Лаб10Обобщения\Примеры\Примеры\obj\Debug\net10.0\Примеры.dll
+C:\Users\Dmitriy\Desktop\oop\Лаб10Обобщения\Примеры\Примеры\obj\Debug\net10.0\refint\Примеры.dll
+C:\Users\Dmitriy\Desktop\oop\Лаб10Обобщения\Примеры\Примеры\obj\Debug\net10.0\Примеры.pdb
+C:\Users\Dmitriy\Desktop\oop\Лаб10Обобщения\Примеры\Примеры\obj\Debug\net10.0\Примеры.genruntimeconfig.cache
+C:\Users\Dmitriy\Desktop\oop\Лаб10Обобщения\Примеры\Примеры\obj\Debug\net10.0\ref\Примеры.dll
+C:\Users\Dmitriy\Desktop\oop\Лаб10Обобщения\Примеры\Примеры\obj\Debug\net10.0\Примеры.csproj.Up2Date

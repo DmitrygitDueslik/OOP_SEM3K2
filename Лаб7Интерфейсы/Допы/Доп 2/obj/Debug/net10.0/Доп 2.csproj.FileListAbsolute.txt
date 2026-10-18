@@ -1,0 +1,15 @@
+C:\Users\Обезьяна\Desktop\oop\Лаб7Интерфейсы\Допы\Доп 2\bin\Debug\net10.0\Доп 2.exe
+C:\Users\Обезьяна\Desktop\oop\Лаб7Интерфейсы\Допы\Доп 2\bin\Debug\net10.0\Доп 2.deps.json
+C:\Users\Обезьяна\Desktop\oop\Лаб7Интерфейсы\Допы\Доп 2\bin\Debug\net10.0\Доп 2.runtimeconfig.json
+C:\Users\Обезьяна\Desktop\oop\Лаб7Интерфейсы\Допы\Доп 2\bin\Debug\net10.0\Доп 2.dll
+C:\Users\Обезьяна\Desktop\oop\Лаб7Интерфейсы\Допы\Доп 2\bin\Debug\net10.0\Доп 2.pdb
+C:\Users\Обезьяна\Desktop\oop\Лаб7Интерфейсы\Допы\Доп 2\obj\Debug\net10.0\Доп 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Обезьяна\Desktop\oop\Лаб7Интерфейсы\Допы\Доп 2\obj\Debug\net10.0\Доп 2.AssemblyInfoInputs.cache
+C:\Users\Обезьяна\Desktop\oop\Лаб7Интерфейсы\Допы\Доп 2\obj\Debug\net10.0\Доп 2.AssemblyInfo.cs
+C:\Users\Обезьяна\Desktop\oop\Лаб7Интерфейсы\Допы\Доп 2\obj\Debug\net10.0\Доп 2.csproj.CoreCompileInputs.cache
+C:\Users\Обезьяна\Desktop\oop\Лаб7Интерфейсы\Допы\Доп 2\obj\Debug\net10.0\Доп 2.dll
+C:\Users\Обезьяна\Desktop\oop\Лаб7Интерфейсы\Допы\Доп 2\obj\Debug\net10.0\refint\Доп 2.dll
+C:\Users\Обезьяна\Desktop\oop\Лаб7Интерфейсы\Допы\Доп 2\obj\Debug\net10.0\Доп 2.pdb
+C:\Users\Обезьяна\Desktop\oop\Лаб7Интерфейсы\Допы\Доп 2\obj\Debug\net10.0\Доп 2.genruntimeconfig.cache
+C:\Users\Обезьяна\Desktop\oop\Лаб7Интерфейсы\Допы\Доп 2\obj\Debug\net10.0\ref\Доп 2.dll
+C:\Users\Обезьяна\Desktop\oop\Лаб7Интерфейсы\Допы\Доп 2\obj\Debug\net10.0\Доп 2.csproj.Up2Date

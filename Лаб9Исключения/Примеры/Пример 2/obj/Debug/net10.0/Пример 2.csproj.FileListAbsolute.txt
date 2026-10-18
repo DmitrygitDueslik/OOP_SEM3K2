@@ -1,0 +1,15 @@
+C:\Users\Dmitriy\Desktop\oop\Лаб9Исключения\Примеры\Пример 2\bin\Debug\net10.0\Пример 2.exe
+C:\Users\Dmitriy\Desktop\oop\Лаб9Исключения\Примеры\Пример 2\bin\Debug\net10.0\Пример 2.deps.json
+C:\Users\Dmitriy\Desktop\oop\Лаб9Исключения\Примеры\Пример 2\bin\Debug\net10.0\Пример 2.runtimeconfig.json
+C:\Users\Dmitriy\Desktop\oop\Лаб9Исключения\Примеры\Пример 2\bin\Debug\net10.0\Пример 2.dll
+C:\Users\Dmitriy\Desktop\oop\Лаб9Исключения\Примеры\Пример 2\bin\Debug\net10.0\Пример 2.pdb
+C:\Users\Dmitriy\Desktop\oop\Лаб9Исключения\Примеры\Пример 2\obj\Debug\net10.0\Пример 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitriy\Desktop\oop\Лаб9Исключения\Примеры\Пример 2\obj\Debug\net10.0\Пример 2.AssemblyInfoInputs.cache
+C:\Users\Dmitriy\Desktop\oop\Лаб9Исключения\Примеры\Пример 2\obj\Debug\net10.0\Пример 2.AssemblyInfo.cs
+C:\Users\Dmitriy\Desktop\oop\Лаб9Исключения\Примеры\Пример 2\obj\Debug\net10.0\Пример 2.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\Desktop\oop\Лаб9Исключения\Примеры\Пример 2\obj\Debug\net10.0\Пример 2.dll
+C:\Users\Dmitriy\Desktop\oop\Лаб9Исключения\Примеры\Пример 2\obj\Debug\net10.0\refint\Пример 2.dll
+C:\Users\Dmitriy\Desktop\oop\Лаб9Исключения\Примеры\Пример 2\obj\Debug\net10.0\Пример 2.pdb
+C:\Users\Dmitriy\Desktop\oop\Лаб9Исключения\Примеры\Пример 2\obj\Debug\net10.0\Пример 2.genruntimeconfig.cache
+C:\Users\Dmitriy\Desktop\oop\Лаб9Исключения\Примеры\Пример 2\obj\Debug\net10.0\ref\Пример 2.dll
+C:\Users\Dmitriy\Desktop\oop\Лаб9Исключения\Примеры\Пример 2\obj\Debug\net10.0\Пример 2.csproj.Up2Date

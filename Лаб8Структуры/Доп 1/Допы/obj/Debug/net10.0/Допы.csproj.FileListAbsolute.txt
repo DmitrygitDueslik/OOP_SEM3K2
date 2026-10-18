@@ -1,0 +1,15 @@
+C:\Users\Обезьяна\Desktop\oop\Лаб8Структуры\Доп 1\Допы\bin\Debug\net10.0\Допы.exe
+C:\Users\Обезьяна\Desktop\oop\Лаб8Структуры\Доп 1\Допы\bin\Debug\net10.0\Допы.deps.json
+C:\Users\Обезьяна\Desktop\oop\Лаб8Структуры\Доп 1\Допы\bin\Debug\net10.0\Допы.runtimeconfig.json
+C:\Users\Обезьяна\Desktop\oop\Лаб8Структуры\Доп 1\Допы\bin\Debug\net10.0\Допы.dll
+C:\Users\Обезьяна\Desktop\oop\Лаб8Структуры\Доп 1\Допы\bin\Debug\net10.0\Допы.pdb
+C:\Users\Обезьяна\Desktop\oop\Лаб8Структуры\Доп 1\Допы\obj\Debug\net10.0\Допы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Обезьяна\Desktop\oop\Лаб8Структуры\Доп 1\Допы\obj\Debug\net10.0\Допы.AssemblyInfoInputs.cache
+C:\Users\Обезьяна\Desktop\oop\Лаб8Структуры\Доп 1\Допы\obj\Debug\net10.0\Допы.AssemblyInfo.cs
+C:\Users\Обезьяна\Desktop\oop\Лаб8Структуры\Доп 1\Допы\obj\Debug\net10.0\Допы.csproj.CoreCompileInputs.cache
+C:\Users\Обезьяна\Desktop\oop\Лаб8Структуры\Доп 1\Допы\obj\Debug\net10.0\Допы.dll
+C:\Users\Обезьяна\Desktop\oop\Лаб8Структуры\Доп 1\Допы\obj\Debug\net10.0\refint\Допы.dll
+C:\Users\Обезьяна\Desktop\oop\Лаб8Структуры\Доп 1\Допы\obj\Debug\net10.0\Допы.pdb
+C:\Users\Обезьяна\Desktop\oop\Лаб8Структуры\Доп 1\Допы\obj\Debug\net10.0\Допы.genruntimeconfig.cache
+C:\Users\Обезьяна\Desktop\oop\Лаб8Структуры\Доп 1\Допы\obj\Debug\net10.0\ref\Допы.dll
+C:\Users\Обезьяна\Desktop\oop\Лаб8Структуры\Доп 1\Допы\obj\Debug\net10.0\Допы.csproj.Up2Date

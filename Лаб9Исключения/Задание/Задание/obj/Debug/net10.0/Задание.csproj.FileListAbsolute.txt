@@ -1,0 +1,15 @@
+C:\Users\Dmitriy\Desktop\oop\Лаб9Исключения\Задание\Задание\bin\Debug\net10.0\Задание.exe
+C:\Users\Dmitriy\Desktop\oop\Лаб9Исключения\Задание\Задание\bin\Debug\net10.0\Задание.deps.json
+C:\Users\Dmitriy\Desktop\oop\Лаб9Исключения\Задание\Задание\bin\Debug\net10.0\Задание.runtimeconfig.json
+C:\Users\Dmitriy\Desktop\oop\Лаб9Исключения\Задание\Задание\bin\Debug\net10.0\Задание.dll
+C:\Users\Dmitriy\Desktop\oop\Лаб9Исключения\Задание\Задание\bin\Debug\net10.0\Задание.pdb
+C:\Users\Dmitriy\Desktop\oop\Лаб9Исключения\Задание\Задание\obj\Debug\net10.0\Задание.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitriy\Desktop\oop\Лаб9Исключения\Задание\Задание\obj\Debug\net10.0\Задание.AssemblyInfoInputs.cache
+C:\Users\Dmitriy\Desktop\oop\Лаб9Исключения\Задание\Задание\obj\Debug\net10.0\Задание.AssemblyInfo.cs
+C:\Users\Dmitriy\Desktop\oop\Лаб9Исключения\Задание\Задание\obj\Debug\net10.0\Задание.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\Desktop\oop\Лаб9Исключения\Задание\Задание\obj\Debug\net10.0\Задание.dll
+C:\Users\Dmitriy\Desktop\oop\Лаб9Исключения\Задание\Задание\obj\Debug\net10.0\refint\Задание.dll
+C:\Users\Dmitriy\Desktop\oop\Лаб9Исключения\Задание\Задание\obj\Debug\net10.0\Задание.pdb
+C:\Users\Dmitriy\Desktop\oop\Лаб9Исключения\Задание\Задание\obj\Debug\net10.0\Задание.genruntimeconfig.cache
+C:\Users\Dmitriy\Desktop\oop\Лаб9Исключения\Задание\Задание\obj\Debug\net10.0\ref\Задание.dll
+C:\Users\Dmitriy\Desktop\oop\Лаб9Исключения\Задание\Задание\obj\Debug\net10.0\Задание.csproj.Up2Date
