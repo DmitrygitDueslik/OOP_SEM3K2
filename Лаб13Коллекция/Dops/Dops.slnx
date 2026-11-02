@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Dop2/Dop2.csproj" />
+  <Project Path="Dop3/Dop3.csproj" />
+  <Project Path="Dops/Dops.csproj" />
+</Solution>
